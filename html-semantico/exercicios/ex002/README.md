@@ -4,8 +4,7 @@
 
 Exercício baseado no capítulo **"Caracteres, parágrafos e quebras de linha"** do curso de HTML e CSS da plataforma "Curso em Vídeo".
 
-👉 Material original:
-https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/05%20-%20Caracteres%2C%20par%C3%A1grafos%20e%20quebras%20de%20linha.pdf
+👉 [Material original](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/05%20-%20Caracteres%2C%20par%C3%A1grafos%20e%20quebras%20de%20linha.pdf)
 
 ## 💡 Objetivo
 
@@ -13,7 +12,7 @@ Compreender como o HTML interpreta textos, parágrafos e quebras de linha, além
 
 ## 🌐 Visualização
 
-👉 [https://github.com/Giulia-MB/FrontEnd-NTTdata/blob/main/html-semantico/exercicios/ex002/index.html](https://github.com/Giulia-MB/FrontEnd-NTTdata/blob/main/html-semantico/exercicios/ex002/index.html)
+👉 [Abrir exercício](https://github.com/Giulia-MB/FrontEnd-NTTdata/blob/main/html-semantico/exercicios/ex002/index.html)
 
 ## 🛠️ O que foi praticado
 
