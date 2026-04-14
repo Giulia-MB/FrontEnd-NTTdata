@@ -21,6 +21,7 @@ Praticar diferentes formas de representar cores em CSS, entendendo como aplicar 
 * Definição de cor por código hexadecimal (`#ffa500`, `#A52A2A`)  
 * Definição de cor por `rgb()`  
 * Definição de cor por `hsl()`  
+* Definição de cor por `hsla()`  
 * Comparação visual entre diferentes formas de escrita  
 
 ## 📚 Aprendizados
@@ -30,6 +31,7 @@ Praticar diferentes formas de representar cores em CSS, entendendo como aplicar 
 * Códigos hexadecimais são muito usados no desenvolvimento front-end  
 * `rgb()` define a intensidade de vermelho, verde e azul  
 * `hsl()` usa matiz, saturação e luminosidade, facilitando ajustes finos  
+* `hsl()` é semelhante ao HSL, mas com canal alfa para controlar transparência 
 * O VS Code possui seletor visual de cores, o que ajuda bastante na escolha de tons 
 
 ## 📄 Estrutura do exercício
@@ -40,10 +42,11 @@ O exercício apresenta quatro exemplos com o mesmo título e parágrafo, alteran
 * hexadecimal  
 * RGB  
 * HSL  
+* HSLA  
 
 ## 🚀 Resultado
 
-Página HTML demonstrando quatro maneiras diferentes de definir cores em CSS, permitindo comparar sintaxe e resultado visual.
+Página HTML demonstrando cinco maneiras diferentes de definir cores em CSS, permitindo comparar sintaxe e resultado visual.
 
 ---
 
