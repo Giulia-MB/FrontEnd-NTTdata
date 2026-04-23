@@ -12,8 +12,8 @@ Aprender duas formas de utilizar fontes personalizadas em páginas web: importan
 
 ## 🌐 Visualização
 
-👉 [fonte01.html - Google Fonts](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex018/fonte01.html)  
-👉 [fonte02.html - Fontes Externas](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex018/fonte02.html)
+👉 [fonte01.html - Google Fonts](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex018/fonte01.html)  
+👉 [fonte02.html - Fontes Externas](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex018/fonte02.html)
 
 ## 🛠️ O que foi praticado
 

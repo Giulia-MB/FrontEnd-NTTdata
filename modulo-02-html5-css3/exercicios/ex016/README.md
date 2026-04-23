@@ -12,9 +12,9 @@ Praticar diferentes formas de representar cores em CSS, explorar transparência,
 
 ## 🌐 Visualização
 
-👉 [cor01.html - Cores em CSS](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex016/cor01.html)  
-👉 [cor02.html - Gradiente em CSS](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex016/cor02.html)  
-👉 [cor03.html - Site de Exemplo](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex016/cor03.html)
+👉 [cor01.html - Cores em CSS](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex016/cor01.html)  
+👉 [cor02.html - Gradiente em CSS](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex016/cor02.html)  
+👉 [cor03.html - Site de Exemplo](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex016/cor03.html)
 
 ## 🛠️ O que foi praticado
 

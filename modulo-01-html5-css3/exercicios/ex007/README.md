@@ -12,9 +12,9 @@ Explorar as principais formatações de texto em HTML e compreender a diferença
 
 ## 🌐 Visualização
 
-👉 [html4.html](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex007/html4.html)  
-👉 [html5.html](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex007/html5.html)  
-👉 [index.html](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex007/index.html)
+👉 [html4.html](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex007/html4.html)  
+👉 [html5.html](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex007/html5.html)  
+👉 [index.html](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex007/index.html)
 
 ## 🛠️ O que foi praticado
 

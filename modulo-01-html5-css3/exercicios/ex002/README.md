@@ -12,7 +12,7 @@ Compreender como o HTML interpreta textos, parágrafos e quebras de linha, além
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex002/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex002/)
 
 ## 🛠️ O que foi praticado
 

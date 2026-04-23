@@ -12,7 +12,7 @@ Aprender a utilizar seletores personalizados em CSS para estilizar elementos esp
 
 ## 🌐 Visualização
 
-👉 [seletor01.html - Seletores personalizados](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex019/seletor01.html)
+👉 [seletor01.html - Seletores personalizados](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex019/seletor01.html)
 
 ## 🛠️ O que foi praticado
 

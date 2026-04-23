@@ -12,7 +12,7 @@ Criar uma página HTML organizada utilizando corretamente a hierarquia de títul
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex006/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex006/)
 
 ## 🛠️ O que foi praticado
 

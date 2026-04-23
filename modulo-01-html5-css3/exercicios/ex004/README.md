@@ -12,7 +12,8 @@ Aprender a adicionar um favicon em uma página HTML e conhecer diferentes formas
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex004/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex004/)
+
 
 ## 🛠️ O que foi praticado
 

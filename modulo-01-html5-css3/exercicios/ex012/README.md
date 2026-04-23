@@ -12,7 +12,7 @@ Praticar a inserção de vídeos em páginas HTML5, utilizando arquivos hospedad
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex012/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex012/index.html)
 
 ## 🛠️ O que foi praticado
 

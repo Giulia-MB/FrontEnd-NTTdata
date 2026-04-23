@@ -12,7 +12,7 @@ Praticar a inserção de imagens em uma página HTML utilizando a tag apropriada
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex003/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex003/)
 
 ## 🛠️ O que foi praticado
 

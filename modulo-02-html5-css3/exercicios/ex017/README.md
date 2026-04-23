@@ -12,8 +12,8 @@ Praticar propriedades de fontes em CSS e aprender diferentes formas de alinhar t
 
 ## 🌐 Visualização
 
-👉 [fonte01.html - Fontes em CSS](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex017/fonte01.html)  
-👉 [fonte02.html - Alinhamento de texto](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex017/fonte02.html)
+👉 [fonte01.html - Fontes em CSS](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex017/fonte01.html)  
+👉 [fonte02.html - Alinhamento de texto](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex017/fonte02.html)
 
 ## 🛠️ O que foi praticado
 

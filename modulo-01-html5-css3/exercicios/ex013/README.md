@@ -12,7 +12,7 @@ Praticar a aplicação de estilos CSS inline diretamente nas tags HTML, entenden
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex013/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex013/index.html)
 
 ## 🛠️ O que foi praticado
 

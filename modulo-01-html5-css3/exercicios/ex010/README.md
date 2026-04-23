@@ -12,7 +12,7 @@ Praticar a criação de hyperlinks em HTML, incluindo links externos, links inte
 
 ## 🌐 Visualização
 
-👉 [index.html](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex010/index.html)  
+👉 [index.html](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex010/index.html)
 
 ## 🛠️ O que foi praticado
 

@@ -12,7 +12,7 @@ Explorar outras formatações de texto em HTML, incluindo exibição de código,
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex008/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex008/index.html)
 
 ## 🛠️ O que foi praticado
 

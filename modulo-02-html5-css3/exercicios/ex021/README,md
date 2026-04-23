@@ -10,6 +10,12 @@ Exercício baseado no capítulo **"O Modelo de Caixas"** do curso de HTML e CSS 
 
 Praticar o **box model** do CSS, entendendo como funcionam as propriedades de tamanho, borda, padding, margin, outline, sombras, vértices arredondados e o uso de **grouping tags** semânticas.
 
+## 🌐 Visualização
+
+👉 [caixa01.html - Modelo de caixas](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex021/caixa01.html)  
+👉 [caixa02.html - Grouping tags](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex021/caixa02.html)  
+👉 [caixa03.html - Borda personalizada](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex021/caixa03.html)
+
 ## 🌐 Arquivos do exercício
 
 - `caixa01.html` — box model com elementos **block-level** e **inline-level**  
@@ -28,7 +34,7 @@ Praticar o **box model** do CSS, entendendo como funcionam as propriedades de ta
 - uso de `outline` para contorno externo  
 - comparação entre:
   - elemento `h1` como **box-level**
-  - elemento `a` como **inline-level** :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+  - elemento `a` como **inline-level** 
 
 ### 🧱 caixa02.html — Grouping tags e semântica
 
@@ -45,7 +51,7 @@ Praticar o **box model** do CSS, entendendo como funcionam as propriedades de ta
 - criação de uma forma circular com:
   - `width`
   - `height`
-  - `border-radius: 50%` :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+  - `border-radius: 50%`
 
 ### 🖼️ caixa03.html — Borda personalizada
 
@@ -54,7 +60,7 @@ Praticar o **box model** do CSS, entendendo como funcionam as propriedades de ta
 - uso de `border-image-repeat`  
 - aplicação da shorthand:
   - `border-image: url(borda.png) 27 repeat;`
-- prática com bordas decoradas usando imagem externa :contentReference[oaicite:5]{index=5}
+- prática com bordas decoradas usando imagem externa
 
 ## 📚 Aprendizados
 
@@ -70,7 +76,7 @@ Praticar o **box model** do CSS, entendendo como funcionam as propriedades de ta
 - sombras ajudam a dar profundidade visual com `box-shadow`  
 - cantos arredondados são criados com `border-radius`  
 - tags semânticas ajudam a organizar melhor a estrutura da página  
-- bordas também podem ser personalizadas com imagens, usando `border-image` :contentReference[oaicite:6]{index=6}
+- bordas também podem ser personalizadas com imagens, usando `border-image`
 
 ## 📄 Estrutura do exercício
 

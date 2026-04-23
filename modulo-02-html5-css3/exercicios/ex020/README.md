@@ -12,9 +12,9 @@ Praticar pseudo-classes e pseudo-elementos em CSS, aprendendo a criar efeitos vi
 
 ## 🌐 Visualização
 
-👉 [pseudoclasse.html - Pseudo-classes básicas](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex020/pseudoclasse.html)  
-👉 [hover.html - Efeito hover com texto oculto](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex020/hover.html)  
-👉 [links.html - Personalização de links](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/modulo-02-css/exercicios/ex020/links.html)
+👉 [pseudoclasse.html - Pseudo-classes básicas](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex020/pseudoclasse.html)  
+👉 [hover.html - Efeito hover com texto oculto](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex020/hover.html)  
+👉 [links.html - Personalização de links](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex020/links.html)
 
 ## 🛠️ O que foi praticado
 

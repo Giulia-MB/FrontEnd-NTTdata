@@ -12,7 +12,7 @@ Praticar a inserção de emojis em páginas HTML utilizando códigos Unicode.
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex005/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex005/)
 
 ## 🛠️ O que foi praticado
 

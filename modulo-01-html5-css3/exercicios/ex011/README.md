@@ -12,7 +12,7 @@ Praticar o uso de mídias em HTML5, incluindo imagens responsivas e reprodução
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/exercicios/ex011/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex011/index.html)
 
 ## 🛠️ O que foi praticado
 
