@@ -8,83 +8,87 @@ Exercício baseado no material **"Conteúdos em Tabelas"** do curso de HTML e CS
 
 ## 💡 Objetivo
 
-Aprender a criar, estruturar e estilizar tabelas em HTML, utilizando tags semânticas, alinhamentos, cabeçalho, rodapé, agrupamento de dados, efeito zebrado e mesclagem de células.
+Aprender a criar, estruturar e estilizar tabelas em HTML, utilizando recursos semânticos, agrupamento de dados, mesclagem de células, personalização de colunas e adaptação para telas pequenas.
 
 ## 🌐 Visualização
 
 👉 [tabela001.html - Primeira tabela](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela001.html)  
 👉 [tabela002.html - Tabela grande](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela002.html)  
 👉 [tabela003.html - Mesclagem de células](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela003.html)  
-👉 [tabela004.html - Agrupamento e escopo](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela004.html)
+👉 [tabela004.html - Agrupamento e escopo](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela004.html)  
+👉 [tabela005.html - Colgroup e colunas estilizadas](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela005.html)  
+👉 [tabela006.html - Tabela responsiva](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/tabela006.html)
 
 ## 🛠️ O que foi praticado
 
 * Criação de tabelas com `table`, `tr`, `td` e `th`
-* Uso de `caption` para título da tabela
+* Uso de `caption`
 * Organização com `thead`, `tbody` e `tfoot`
-* Uso de `scope` para acessibilidade e semântica
-* Estilização com bordas e espaçamento
-* Alinhamento horizontal e vertical
+* Aplicação de `scope`
 * Mesclagem com `rowspan` e `colspan`
 * Agrupamento de linhas e colunas
+* Uso de `colgroup`
+* Estilização de colunas específicas
+* Efeito zebrado com `nth-child()`
+* Scroll horizontal para tabelas grandes
+* Responsividade para telas pequenas
 * Rodapé com totalização de dados
 
 ## 📚 Aprendizados
 
-* Tabelas devem ser usadas para dados organizados em linhas e colunas  
-* `th` identifica cabeçalhos e melhora leitura da tabela  
-* `caption` adiciona título descritivo  
-* `thead`, `tbody` e `tfoot` organizam a estrutura  
-* `scope="col"` identifica cabeçalhos de coluna  
-* `scope="row"` identifica cabeçalhos de linha  
-* `scope="colgroup"` representa grupo de colunas  
-* `scope="rowgroup"` representa grupo de linhas  
+* Tabelas são indicadas para dados tabulares organizados  
+* `thead`, `tbody` e `tfoot` melhoram estrutura semântica  
+* `scope` melhora acessibilidade e leitura por leitores de tela  
 * `rowspan` une células verticalmente  
 * `colspan` une células horizontalmente  
-* Rodapés podem exibir totais ou resumos  
+* `colgroup` permite estilizar colunas inteiras sem repetir classes nas células  
+* `nth-child()` ajuda a destacar linhas alternadas  
+* `overflow: auto` cria rolagem horizontal quando necessário  
+* Tabelas responsivas melhoram experiência em celulares e telas menores  
 
 ## 📄 Estrutura do exercício
 
 ### `tabela001.html`
 
-Página demonstrando:
-
 * tabela simples  
-* linhas e colunas básicas  
-* bordas e alinhamento  
+* linhas, colunas e bordas básicas  
 
 ### `tabela002.html`
 
-Página demonstrando:
-
 * tabela grande com população dos estados  
 * cabeçalho, corpo e rodapé  
-* efeito zebrado  
 * totalização final  
 
 ### `tabela003.html`
 
-Página demonstrando:
-
 * mesclagem de células  
-* uso de `colspan` e `rowspan`  
+* uso de `rowspan` e `colspan`  
 
 ### `tabela004.html`
 
-Página demonstrando:
-
 * agrupamento de pessoas por categoria  
 * agrupamento de filmes favoritos  
-* uso de `scope="rowgroup"`  
-* uso de `scope="colgroup"`  
-* rodapé com total geral 
+* uso de escopos avançados  
+
+### `tabela005.html`
+
+* uso de `colgroup`  
+* estilização de colunas específicas  
+* aplicação de cores por grupos de colunas :contentReference[oaicite:0]{index=0}
+
+### `tabela006.html`
+
+* tabela larga com vendas mensais  
+* container com rolagem horizontal  
+* adaptação para telas pequenas  
+* responsividade aplicada a tabelas :contentReference[oaicite:1]{index=1}
 
 ## 🚀 Resultado
 
-O exercício mostrou como construir tabelas simples e avançadas em HTML, aplicando semântica correta, organização visual e recursos importantes para dados reais.
+O exercício mostrou como criar tabelas simples e avançadas em HTML, aplicando semântica correta, organização visual, acessibilidade e responsividade.
 
 ---
 
 ## 💬 Observação
 
-Este capítulo reforça que tabelas continuam essenciais para relatórios, dashboards, planilhas e dados administrativos, desde que usadas corretamente e não como estrutura de layout.
+Este capítulo reforça que tabelas continuam essenciais para relatórios, dashboards, planilhas e dados administrativos. Quando bem estruturadas, tornam a leitura mais clara e profissional em qualquer dispositivo.
