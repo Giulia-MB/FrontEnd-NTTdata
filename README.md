@@ -4,98 +4,157 @@ Olá! Meu nome é **Giulia Bertulucci**. Sou graduada em **Engenharia de Computa
 
 Os conteúdos são baseados na **Trilha Front-End Júnior da NTT Data**, e foram organizados de forma progressiva para simular a evolução de um desenvolvedor.
 
----
+Este repositório **html-semantico** concentra os estudos das etapas iniciais da trilha, com foco em:
 
-## 🎯 Objetivo
-
-Desenvolver habilidades para atuar como desenvolvedora front-end júnior, sendo capaz de:
-
-* Construir interfaces funcionais, acessíveis e responsivas
-* Consumir APIs back-end
-* Organizar código de forma clara e sustentável
-* Trabalhar com autonomia em projetos
-
----
-
-## 🧭 Organização
-
-Os conteúdos foram organizados por **módulos (01–08)**, adaptando a estrutura original da trilha para acompanhar melhor meu ritmo de aprendizado.
+- HTML semântico  
+- Estruturação de páginas  
+- Formulários  
+- CSS básico e intermediário  
+- Responsividade  
+- Tabelas  
+- Iframes  
+- Boas práticas de marcação  
 
 ---
 
-## 📦 Módulos
+# 📚 Base de Estudos Complementar
 
-### 📄 Módulo 01 - HTML Semântico (Estrutura)
+Os **exercícios** e **desafios** deste repositório foram retirados dos **Módulos 1 ao 5** do curso:
 
-* Estruturação de páginas HTML
-* Uso de tags semânticas
-* Criação de formulários básicos
+## 🎓 Curso HTML5 e CSS3 — Curso em Vídeo
 
----
+👉 https://www.cursoemvideo.com/
 
-### 🎨 Módulo 02 - CSS e Responsividade
-
-* Estilização de interfaces
-* Layouts responsivos
-* Uso de Flexbox e Media Queries
+Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de tecnologia.
 
 ---
 
-### ⚙️ Módulo 03 - JavaScript (Fundamentos)
+# 🎯 Entregáveis da Trilha
 
-* Manipulação do DOM
-* Eventos
-* Funções e lógica básica
+## ▶️ Execute os entregáveis aqui:
 
----
+- [Criar uma página institucional completa](https://giulia-mb.github.io/html-semantico/entregaveis/projeto-institucional/)
+- [Criar formulário com campos e validações básicas](https://giulia-mb.github.io/html-semantico/entregaveis/formulario-validacoes/)
+- [Projeto atualizado com responsividade](https://giulia-mb.github.io/html-semantico/entregaveis/projeto-responsivo/)
 
-### 🌐 Módulo 04 - Consumo de APIs
+## 💻 Acesse o código dos entregáveis aqui:
 
-* Requisições HTTP
-* Consumo de APIs REST
-* Renderização de dados
-
----
-
-### ⚛️ Módulo 05 - React (Fundamentos)
-
-* Componentes
-* Props e State
-* Estrutura de aplicações React
+- [Página institucional completa](https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/projeto-institucional)
+- [Formulário com validações](https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/formulario-validacoes)
+- [Projeto responsivo](https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/projeto-responsivo)
 
 ---
 
-### 🧠 Módulo 06 - Organização e Boas Práticas
+# 🏆 Desafios
 
-* Clean Code
-* Organização de pastas
-* Legibilidade e manutenção
+## ▶️ Execute os desafios aqui:
+
+### Módulo 01
+
+- [Desafio 01 - Desafio das Mensagens](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d001/)
+- [Desafio 02 - Desafio das Imagens](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d002/)
+- [Desafio 03 - Desafio do Mapa Mundi](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d003/)
+- [Desafio 04 - Meus Emojis Favoritos](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d004/)
+- [Desafio 05 - Meu Perfil Social](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d005/)
+- [Desafio 06 - Desafio das Tags](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d006/)
+- [Desafio 07 - Imagem Flexível](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d007/)
+- [Desafio 08 - Criando uma Navegação](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/)
+- [Desafio 09 - Seus Vídeos Favoritos](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/)
+
+### Módulo 02
+
+- [Desafio 10 - Desafio Android](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/desafios/d010/)
+
+### Módulo 03
+
+- [Desafio 11 - Desafio do Astronauta](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d011/)
+- [Desafio 12 - Desafio do Cordel Moderno](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d012/)
+- [Desafio Extra 01 - Tabelas Avançadas](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra01/)
+- [Desafio Extra 02 - Tabela Boletim Escolar](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra02/)
+
+### Módulo 04
+
+- [Desafio 13 - Projeto Redes Sociais](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d013/)
+
+## 💻 Acesse o código dos desafios aqui:
+
+### Módulo 01
+
+- [Código dos desafios do módulo 01](https://github.com/giulia-mb/html-semantico/tree/main/modulo-01-html5-css3/desafios)
+
+### Módulo 02
+
+- [Código do Desafio Android](https://github.com/giulia-mb/html-semantico/tree/main/modulo-02-html5-css3/desafios/d010)
+
+### Módulo 03
+
+- [Código do Desafio do Astronauta](https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/desafios/d011)
+- [Código do Cordel Moderno](https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/desafios/d012)
+- [Código das Tabelas Avançadas](https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/desafios/dextra01)
+- [Código da Tabela Boletim Escolar](https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/desafios/dextra02)
+
+### Módulo 04
+
+- [Código do Projeto Redes Sociais](https://github.com/giulia-mb/html-semantico/tree/main/modulo-04-html5-css3/desafios/d013)
 
 ---
 
-### 🛠️ Módulo 07 - Projeto Integrado
+# 🧪 Exercícios
 
-* Aplicação React completa
-* Integração com API
-* Tratamento de erros
+## ▶️ Execute os exercícios aqui:
 
----
+### Módulo 01
 
-### 🎯 Módulo 08 - Projeto Final (Portfólio)
+- [Ex001](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex001/)
+- [Ex002](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex002/)
+- [Ex003](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex003/)
+- [Ex004](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex004/)
+- [Ex005](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex005/)
+- [Ex006](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex006/)
+- [Ex007](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex007/)
+- [Ex008](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex008/)
+- [Ex009](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex009/)
+- [Ex010](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex010/)
+- [Ex011](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex011/)
+- [Ex012](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex012/)
+- [Ex013](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex013/)
+- [Ex014](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex014/)
+- [Ex015](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/exercicios/ex015/)
 
-* Desenvolvimento de projeto completo
-* Consolidação dos conhecimentos
-* Construção de portfólio
+### Módulo 02
 
----
+- [Ex016](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex016/)
+- [Ex017](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex017/)
+- [Ex018](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex018/)
+- [Ex019](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex019/)
+- [Ex020](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex020/)
+- [Ex021](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex021/)
+- [Ex022](https://giulia-mb.github.io/html-semantico/modulo-02-html5-css3/exercicios/ex022/)
 
-## 🛠️ Tecnologias
+### Módulo 03
 
-* HTML5
-* CSS3
-* JavaScript
-* React
+- [Ex023](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex023/)
 
----
+### Módulo 04
 
-✨ Em constante evolução como desenvolvedora front-end.
+- [Ex024](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/)
+
+## 💻 Acesse o código dos exercícios aqui:
+
+### Módulo 01
+
+- [Código dos exercícios do módulo 01](https://github.com/giulia-mb/html-semantico/tree/main/modulo-01-html5-css3/exercicios)
+
+### Módulo 02
+
+- [Código dos exercícios do módulo 02](https://github.com/giulia-mb/html-semantico/tree/main/modulo-02-html5-css3/exercicios)
+
+### Módulo 03
+
+- [Código dos exercícios do módulo 03](https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/exercicios)
+
+### Módulo 04
+
+- [Código dos exercícios do módulo 04](https://github.com/giulia-mb/html-semantico/tree/main/modulo-04-html5-css3/exercicios)
+
+
