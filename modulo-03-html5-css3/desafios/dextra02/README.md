@@ -12,7 +12,7 @@ Criar uma tabela escolar com disciplinas divididas por áreas, utilizando cabeç
 
 ## 🌐 Visualização
 
-👉 [Abrir desafio](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d014/index.html)
+👉 [Abrir desafio](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra02/index.html)
 
 ## 🛠️ O que foi praticado
 
