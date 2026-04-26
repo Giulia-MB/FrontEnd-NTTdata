@@ -51,15 +51,15 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 
 ### Módulo 01
 
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d001/" target="_blank">Desafio 01 - Desafio das Mensagens</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d002/" target="_blank">Desafio 02 - Desafio das Imagens</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d003/" target="_blank">Desafio 03 - Desafio do Mapa Mundi</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d004/" target="_blank">Desafio 04 - Meus Emojis Favoritos</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d005/" target="_blank">Desafio 05 - Meu Perfil Social</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d006/" target="_blank">Desafio 06 - Desafio das Tags</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d007/" target="_blank">Desafio 07 - Imagem Flexível</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/" target="_blank">Desafio 08 - Criando uma Navegação</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/" target="_blank">Desafio 09 - Seus Vídeos Favoritos</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d001/index.html" target="_blank">Desafio 01 - Desafio das Mensagens</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d002/index.html" target="_blank">Desafio 02 - Desafio das Imagens</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d003/index.html" target="_blank">Desafio 03 - Desafio do Mapa Mundi</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d004/index.html" target="_blank">Desafio 04 - Meus Emojis Favoritos</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d005/index.html" target="_blank">Desafio 05 - Meu Perfil Social</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d006/index.html" target="_blank">Desafio 06 - Desafio das Tags</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d007/index.html" target="_blank">Desafio 07 - Imagem Flexível</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/index.html" target="_blank">Desafio 08 - Criando uma Navegação</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/index.html" target="_blank">Desafio 09 - Seus Vídeos Favoritos</a>
 
 ### Módulo 02
 

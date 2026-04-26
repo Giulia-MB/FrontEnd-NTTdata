@@ -20,7 +20,7 @@ Praticar a criação de links em HTML e desenvolver uma página simples de apres
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d005/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d005/index.html)
 
 ## 🛠️ O que foi praticado
 

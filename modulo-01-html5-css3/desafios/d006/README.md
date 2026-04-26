@@ -18,7 +18,7 @@ Praticar a criação de listas em HTML e o uso de dicas visuais com o atributo `
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d006/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d006/index.html)
 
 ## 🛠️ O que foi praticado
 

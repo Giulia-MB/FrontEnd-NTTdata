@@ -29,7 +29,7 @@ Praticar a criação de listas em HTML e a inserção de emojis utilizando códi
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d004/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d004/index.html)
 
 ## 🛠️ O que foi praticado
 

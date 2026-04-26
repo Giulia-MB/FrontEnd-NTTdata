@@ -14,7 +14,7 @@ Criar uma página HTML que contenha:
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d002/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d002/index.html)
 
 ## 🛠️ O que foi praticado
 

@@ -12,9 +12,9 @@ Praticar a navegação entre páginas HTML utilizando links internos.
 
 ## 🌐 Visualização
 
-👉 [Página principal](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d008/index.html)  
-👉 [Página verde](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d008/pag-verde.html)  
-👉 [Página amarela](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d008/pag-amarela.html)
+👉 [Página principal](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/index.html)  
+👉 [Página verde](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/pag-verde.html)  
+👉 [Página amarela](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d008/pag-amarela.html)
 
 ## 🛠️ O que foi praticado
 

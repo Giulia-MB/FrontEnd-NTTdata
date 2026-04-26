@@ -12,7 +12,7 @@ Criar uma página HTML utilizando apenas parágrafos e quebras de linha para exi
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d001/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d001/index.html)
 
 ## 🛠️ O que foi praticado
 

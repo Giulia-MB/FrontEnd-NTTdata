@@ -12,7 +12,7 @@ Montar um mapa mundi utilizando nove imagens diferentes, organizando corretament
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d003/)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d003/index.html)
 
 ## 🛠️ O que foi praticado
 

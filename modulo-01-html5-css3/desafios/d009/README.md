@@ -12,11 +12,11 @@ Criar um pequeno site com uma página principal contendo miniaturas de vídeos e
 
 ## 🌐 Visualização
 
-👉 [Página principal](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d009/index.html)  
-👉 [Curso de HTML](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d009/html.html)  
-👉 [Curso de JavaScript](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d009/js.html)  
-👉 [Curso de Hardware](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d009/hardware.html)  
-👉 [Curso de Python](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d009/python.html)
+👉 [Página principal](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/index.html)  
+👉 [Curso de HTML](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/html.html)  
+👉 [Curso de JavaScript](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/js.html)  
+👉 [Curso de Hardware](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/hardware.html)  
+👉 [Curso de Python](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d009/python.html)
 
 ## 🛠️ O que foi praticado
 

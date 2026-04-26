@@ -16,7 +16,7 @@ Praticar o uso de imagens flexíveis em HTML5, adaptando o conteúdo visual para
 
 ## 🌐 Visualização
 
-👉 [Abrir exercício](https://giulia-mb.github.io/FrontEnd-NTTdata/html-semantico/desafios/d007/index.html)
+👉 [Abrir exercício](https://giulia-mb.github.io/html-semantico/modulo-01-html5-css3/desafios/d007/index.html)
 
 ## 🛠️ O que foi praticado
 
