@@ -86,7 +86,7 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 
 ### Módulo 04
 
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d013/" target="_blank">Desafio 13 - Projeto Redes Sociais</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d013/index.html" target="_blank">Desafio 13 - Projeto Redes Sociais</a>
 
 ## 💻 Acesse o código dos desafios aqui:
 
