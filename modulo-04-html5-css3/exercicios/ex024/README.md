@@ -12,12 +12,14 @@ Aprender a incorporar páginas dentro de outras páginas utilizando **iframes**,
 
 ## 🌐 Visualização
 
-👉 [iframe001.html - Introdução ao iframe](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe001.html)  
-👉 [iframe002.html - Página interna](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe002.html)  
-👉 [iframe003.html - Navegação no iframe](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe003.html)  
-👉 [iframe004.html - Segurança com sandbox](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe004.html)  
-👉 [iframe005.html - Scripts controlados](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe005.html)  
-👉 [iframe006.html - Conteúdos externos](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/exercicios/ex024/iframe006.html)
+## 🌐 Visualização
+
+👉 [iframe001.html - Introdução ao iframe](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe001.html)  
+👉 [iframe002.html - Página interna](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe002.html)  
+👉 [iframe003.html - Navegação no iframe](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe003.html)  
+👉 [iframe004.html - Segurança com sandbox](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe004.html)  
+👉 [iframe005.html - Scripts controlados](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe005.html)  
+👉 [iframe006.html - Conteúdos externos](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe006.html)
 
 ## 🛠️ O que foi praticado
 
