@@ -171,6 +171,17 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe004.html" target="_blank">Segurança com sandbox</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe005.html" target="_blank">Scripts controlados</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex024/iframe006.html" target="_blank">Conteúdos externos</a>
+- Exercício 25 - Formulários:
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form001.html" target="_blank">Primeiro formulário</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form002.html" target="_blank">Usuário e senha</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form003.html" target="_blank">Number, month, date e time</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form004.html" target="_blank">E-mail e telefone</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form005.html" target="_blank">Radio e checkbox</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form006.html" target="_blank">Color, range e file</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form007.html" target="_blank">Select, datalist e textarea</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form008.html" target="_blank">Output com soma</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form009.html" target="_blank">Output com range</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form010.html" target="_blank">Cálculo de idade</a>
 
 ## 💻 Acesse o código dos exercícios aqui:
 
