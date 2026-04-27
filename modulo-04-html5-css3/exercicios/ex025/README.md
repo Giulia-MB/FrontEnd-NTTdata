@@ -4,8 +4,7 @@
 
 Exercício baseado no capítulo **"Formulários"** do curso de HTML e CSS da plataforma **Curso em Vídeo**.
 
-👉 Material original:  
-https://github.com/gustavoguanabara/html-css/blob/fe6653ecdafa5b7275a5ecb4c36a8ca14f5043e7/aulas-pdf/24%20-%20Formul%C3%A1rios.pdf
+👉 [Material original](https://github.com/gustavoguanabara/html-css/blob/fe6653ecdafa5b7275a5ecb4c36a8ca14f5043e7/aulas-pdf/24%20-%20Formul%C3%A1rios.pdf)
 
 ## 💡 Objetivo
 
