@@ -12,7 +12,7 @@ Criar uma **tela de login responsiva**, adaptando o layout para **celular, table
 
 ## 🌐 Visualização
 
-👉 [Tela de Login Responsiva](https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/desafios/d015/index.html)
+👉 [Tela de Login Responsiva](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d015/index.html)
 
 ## 🛠️ O que foi praticado
 
