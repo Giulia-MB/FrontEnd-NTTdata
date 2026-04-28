@@ -87,7 +87,7 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 ### Módulo 04
 
 - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/dextra/index.html" target="_blank">Desafio Extra - Projeto Redes Sociais</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/desafios/d015/index.html" target="_blank">Desafio 15 - Tela de Login Responsiva</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d015/index.html" target="_blank">Desafio 15 - Tela de Login Responsiva</a>
 
 ## 💻 Acesse o código dos desafios aqui:
 
