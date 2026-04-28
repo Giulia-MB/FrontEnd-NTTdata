@@ -12,8 +12,8 @@ Reproduzir tabelas com células mescladas, utilizando recursos de HTML para unir
 
 ## 🌐 Visualização
 
-👉 [Parte 01 - tabela001.html](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra/tabela001.html)  
-👉 [Parte 02 - tabela002.html](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra/tabela002.html)
+👉 [Parte 01 - tabela001.html](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d013/tabela001.html)  
+👉 [Parte 02 - tabela002.html](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d013/tabela002.html)
 
 ## 🛠️ O que foi praticado
 
