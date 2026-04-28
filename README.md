@@ -79,14 +79,14 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 
 - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d011/" target="_blank">Desafio 11 - Desafio do Astronauta</a>
 - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d012/" target="_blank">Desafio 12 - Desafio do Cordel Moderno</a>
-- Desafio Extra 01 - Tabelas Avançadas:
-  - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra01/tabela001.html" target="_blank">Tabela 001</a>
-  - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra01/tabela002.html" target="_blank">Tabela 002</a>
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra02/tabela001.html" target="_blank">Desafio Extra 02 - Tabela Boletim Escolar</a>
+- Desafio 13 - Tabelas Avançadas:
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d013/tabela001.html" target="_blank">Tabela 001</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d013/tabela002.html" target="_blank">Tabela 002</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d014/tabela001.html" target="_blank">Desafio 14 - Tabela Boletim Escolar</a>
 
 ### Módulo 04
 
-- <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d013/index.html" target="_blank">Desafio 13 - Projeto Redes Sociais</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/dextra/index.html" target="_blank">Desafio Extra - Projeto Redes Sociais</a>
 
 ## 💻 Acesse o código dos desafios aqui:
 
