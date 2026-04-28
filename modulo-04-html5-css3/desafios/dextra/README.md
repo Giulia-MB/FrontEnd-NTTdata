@@ -12,7 +12,7 @@ Criar uma página interativa simulando um **smartphone responsivo**, exibindo di
 
 ## 🌐 Visualização
 
-👉 [Projeto Redes Sociais](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/d013/index.html)
+👉 [Projeto Redes Sociais](https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/desafios/dextra/index.html)
 
 ## 🛠️ O que foi praticado
 
