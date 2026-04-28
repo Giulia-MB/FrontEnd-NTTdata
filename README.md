@@ -182,6 +182,12 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form008.html" target="_blank">Output com soma</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form009.html" target="_blank">Output com range</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex025/form010.html" target="_blank">Cálculo de idade</a>
+- Exercício 26 - Media Queries:
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq001/index.html" target="_blank">Estilo para Tela e Impressão</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq002/index.html" target="_blank">Orientation com CSS separado</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq003/index.html" target="_blank">Orientation com CSS único</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq004/index.html" target="_blank">Breakpoints por dispositivo</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq005/index.html" target="_blank">Menu Hambúrguer Responsivo</a>
 
 ## 💻 Acesse o código dos exercícios aqui:
 
