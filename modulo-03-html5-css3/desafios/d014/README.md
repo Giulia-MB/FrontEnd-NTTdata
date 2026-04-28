@@ -1,4 +1,4 @@
-# 📄 Desafio Extra 02 - Módulo 03 - Capítulo 21
+# 📄 Desafio 14 - Módulo 03 - Capítulo 21
 
 ## 📌 Enunciado
 
@@ -12,7 +12,7 @@ Criar uma tabela escolar com disciplinas divididas por áreas, utilizando cabeç
 
 ## 🌐 Visualização
 
-👉 [Abrir desafio](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/dextra02/tabela001.html)
+👉 [Abrir desafio](https://giulia-mb.github.io/html-semantico/modulo-03-html5-css3/desafios/d014/tabela001.html)
 
 ## 🛠️ O que foi praticado
 
