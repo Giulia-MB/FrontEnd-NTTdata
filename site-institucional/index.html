@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> IFTM - Instituto Federal do Triângulo Mineiro</title>
+    <title>IFTM - Instituto Federal do Triângulo Mineiro</title>
+
     <link rel="shortcut icon" href="imagens/iftm.ico" type="image/x-icon">
     <link rel="stylesheet" href="estilos/style.css">
 
-     <!-- Ícone Google -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"/>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
-<body> 
+
+<body>
     <header>
         <nav>
             <div class="logo">
@@ -28,12 +29,11 @@
             </ul>
 
             <div class="icones">
-                <!-- E-mail-->
                 <a href="#">
                     <span class="material-symbols-outlined" title="E-mail">mail</span>
                 </a>
+
                 <details>
-                    <!-- Tradução -->
                     <summary>
                         <span class="material-symbols-outlined" title="Escolher idioma">translate</span>
                     </summary>
@@ -44,8 +44,8 @@
                         <li><a href="#">FR</a></li>
                     </ul>
                 </details>
-                <!-- Contato -->
-                <a href="contato.html">
+
+                <a href="formulario.html">
                     <span class="material-symbols-outlined" title="Contato">contact_phone</span>
                 </a>
             </div>
@@ -54,29 +54,38 @@
 
     <main>
         <h1>Bem-vindo ao IFTM Fictício</h1>
-        <p>Site institucional criado apenas para fins de estudo.</p>
+        <p>Site institucional criado apenas para fins de estudo. Para acessar o site oficial do IFTM,
+            <a href="https://iftm.edu.br/" target="_blank">clique aqui</a>! 
+        </p>
 
         <section id="localizacao">
-
             <h2>Encontre o IFTM - Campus Uberaba Parque Tecnológico</h2>
             <p>Entre em contato conosco pelos canais abaixo.</p>
 
             <div class="card-contato">
-                <h3>Telefone</h3>
-                <p>(34) 3326-1400</p>
+                <i class="fa-solid fa-phone-flip icone-contato"></i>
+                <div class="conteudo-card">
+                    <h3>Telefone</h3>
+                    <p>(34) 3326-1400</p>
+                </div>
             </div>
 
             <div class="card-contato">
-                <h3>E-mail</h3>
-                <p>cgap.upt@iftm.edu.br</p>
+                <i class="fa-solid fa-envelope icone-contato"></i>
+                <div class="conteudo-card">
+                    <h3>E-mail</h3>
+                    <p>cgap.upt@iftm.edu.br</p>
+                </div>
             </div>
 
             <div class="card-contato">
-                <h3>Endereço</h3>
-                <p>Av. Dr. Florestan Fernandes, 131 - Univerdecidade, Uberaba - MG</p>
+                <i class="fa-solid fa-location-dot icone-contato"></i>
+                <div class="conteudo-card">
+                    <h3>Endereço</h3>
+                    <p>Av. Dr. Florestan Fernandes, 131</p>
+                </div>
             </div>
 
-            <!-- MAPA -->
             <div class="mapa">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.8583228426673!2d-47.957773800000005!3d-19.718655099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bad18160f7b4d3%3A0x5d0c29cbc9d3e469!2sInstituto%20Federal%20do%20Tri%C3%A2ngulo%20Mineiro%20-%20Campus%20Uberaba%20(Parque%20Tecnol%C3%B3gico)!5e0!3m2!1spt-BR!2sbr!4v1777559498823!5m2!1spt-BR!2sbr"
                 allowfullscreen=""
@@ -84,6 +93,118 @@
                 </iframe>
             </div>
         </section>
+
+        <section id="cursos">
+            <h2>Cursos Oferecidos</h2>
+            <p class="subtitulo-cursos">Conheça os cursos oferecidos pelo IFTM.</p>
+
+            <div class="container-cursos">
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/tecnico.png" alt="Técnicos" class="img-curso">
+                        <h3>Técnicos</h3>
+                        <p>Técnicos Integrados e Concomitantes ao Ensino Médio presenciais</p>
+                    </div>
+                </a>
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/graduacao.png" alt="Superiores" class="img-curso">
+                        <h3>Superiores</h3>
+                        <p>Graduações presenciais</p>
+                    </div>
+                </a>
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/especializacao.png" alt="Especializações" class="img-curso">
+                        <h3>Especializações</h3>
+                        <p>Pós-graduações lato sensu presenciais</p>
+                    </div>
+                </a>
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/mestrado.png" alt="Mestrados e Doutorados" class="img-curso">
+                        <h3>Mestrados e Doutorados</h3>
+                        <p>Pós-graduações stricto sensu presenciais</p>
+                    </div>
+                </a>
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/idiomas.png" alt="CENID" class="img-curso">
+                        <h3>CENID (Idiomas)</h3>
+                        <p>Libras e línguas estrangeiras</p>
+                    </div>
+                </a>
+
+                <a href="#" class="link-card-curso">
+                    <div class="card-curso">
+                        <img src="imagens/ead.png" alt="EAD" class="img-curso">
+                        <h3>EAD</h3>
+                        <p>Educação à distância</p>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+        <section id="servicos">
+            <h2>Serviços e Informações</h2>
+            <p class="subtitulo-servicos">Selecione o assunto desejado</p>
+
+            <div class="container-servicos">
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-check-to-slot"></i>
+                    <h3>ELEIÇÕES DO CONSELHO SUPERIOR</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-user-graduate"></i>
+                    <h3>ESTUDE NO IFTM</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-brands fa-readme"></i>
+                    <h3>EDITAIS</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-calendar"></i>
+                    <h3>CALENDÁRIOS</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-award"></i>
+                    <h3>CERTIFICAÇÕES E DIPLOMAS</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-briefcase"></i>
+                    <h3>TRABALHE NO IFTM</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-book-open-reader"></i>
+                    <h3>EDITORA IFTM</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-phone-flip"></i>
+                    <h3>CONTATOS</h3>
+                </a>
+
+                <a href="#" class="card-servico">
+                    <i class="fa-solid fa-envelope"></i>
+                    <h3>FALE CONOSCO</h3>
+                </a>
+            </div>
+        </section>
     </main>
+    <footer>
+        <p>Desenvolvido por Giulia Bertulucci para NTT DATA</p>
+    </footer>
 </body>
 </html>

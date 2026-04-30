@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fale Conosco - IFTM</title>
+
+    <link rel="shortcut icon" href="imagens/iftm.ico" type="image/x-icon">
+    <link rel="stylesheet" href="estilos/style.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="imagens/logo-iftm.png" alt="Logo IFTM">
+                </a>
+            </div>
+
+            <ul class="menu">
+                <li><a href="#">Órgãos do Governo</a></li>
+                <li><a href="#">Acesso à Informação</a></li>
+                <li><a href="#">Legislação</a></li>
+                <li><a href="#">Acessibilidade</a></li>
+            </ul>
+
+            <div class="icones">
+                <a href="#">
+                    <span class="material-symbols-outlined" title="E-mail">mail</span>
+                </a>
+
+                <details>
+                    <summary>
+                        <span class="material-symbols-outlined" title="Escolher idioma">translate</span>
+                    </summary>
+
+                    <ul class="idiomas">
+                        <li><a href="#">EN</a></li>
+                        <li><a href="#">ES</a></li>
+                        <li><a href="#">FR</a></li>
+                    </ul>
+                </details>
+
+                <a href="formulario.html">
+                    <span class="material-symbols-outlined" title="Contato">contact_phone</span>
+                </a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Fale conosco</h1>
+        <p>Envie uma mensagem para o IFTM</p>
+        <section id="formulario">
+            <form action="cadastro.php" method="post" autocomplete="on">
+                <fieldset>
+                    <legend>Dados pessoais</legend>
+
+                    <p>
+                        <label for="inome">Nome</label>
+                        <input type="text" name="nome" id="inome" minlength="5" maxlength="40" required>
+                    </p>
+
+                    <p>
+                        <label for="iemail">E-mail</label>
+                        <input type="email" name="email" id="iemail" autocomplete="email" required placeholder="Informe o e-mail para contato">
+                    </p>
+
+                    <p>
+                        <label for="itel">Telefone</label>
+                        <input type="tel" name="tel" id="itel" autocomplete="tel" pattern="^\(\d{2}\)\d{4,5}-\d{4}$" required placeholder="(xx)xxxxx-xxxx">
+                    </p>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Mensagem</legend>
+
+                    <p>
+                        <label for="itopico">Tópico:</label>
+                        <select name="topico" id="itopico" required>
+
+                            <option value="" selected>--- Selecione o tópico ---</option>
+                            <option value="assistencia">Assistência Estudantil</option>
+                            <option value="certificacao">Certificação ENEM/ENCCEJA</option>
+                            <option value="concurso">Concurso Público</option>
+                            <option value="matricula">Matricula</option>
+                            <option value="processo">Processo seletivo (Cursos Técnicos, Graduação e Pós-graduação)</option>
+                            <option value="qualidade">Qualidade da água</option>
+                            <option value="site">Site</option>
+                            <option value="outros">Outros tópicos</option>
+
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="imensagem">Mensagem</label>
+                        <textarea name="mensagem" id="imensagem" required placeholder="Digite aqui sua mensagem"></textarea>
+                    </p>
+                </fieldset>
+
+                <div class="area-botao">
+                    <input type="submit" value="Enviar mensagem" class="botao-principal">
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Giulia Bertulucci para NTT DATA</p>
+    </footer>
+</body>
+</html>
