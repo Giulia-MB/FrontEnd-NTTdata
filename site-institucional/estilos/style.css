@@ -31,7 +31,6 @@ nav {
     height: auto;
 }
 
-/* MENU */
 .menu {
     display: inline-block;
     vertical-align: middle;
@@ -59,7 +58,6 @@ nav {
     color: white;
 }
 
-/* ÍCONES */
 .icones {
     display: inline-block;
     vertical-align: middle;
@@ -262,7 +260,7 @@ main a {
 }
 
 .card-contato h3 {
-    margin: 0;
+    margin: 0 0 8px 0;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -423,17 +421,8 @@ main a {
     font-weight: bold;
 }
 
-footer {
-    background-color: #0b6b2d;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-size: 0.9em;
-}
-
 #formulario {
     width: 90%;
-    margin-top: 20px;
     margin: 20px auto 0 auto;
     padding: 0px 0 40px 0;
 }
@@ -517,4 +506,12 @@ footer {
 
 .area-botao input[type="submit"]:hover {
     background-color: #084d21;
+}
+
+footer {
+    background-color: #0b6b2d;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    font-size: 0.9em;
 }
