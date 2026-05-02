@@ -4,38 +4,30 @@ Olá! Meu nome é **Giulia Bertulucci**. Sou graduada em **Engenharia de Computa
 
 Os conteúdos são baseados na **Trilha Front-end Júnior da NTT Data**, e foram organizados de forma progressiva para simular a evolução de um desenvolvedor.
 
-Este repositório **html-semantico** concentra os estudos das etapas iniciais da trilha, com foco em:
+Este repositório **html-semantico** representa as **duas primeiras semanas** de uma trilha de desenvolvimento Front-end com duração total de 8 semanas.
 
-- HTML semântico  
-- Estruturação de páginas  
-- Formulários  
+Nesta etapa inicial, o foco está na construção de uma base sólida em desenvolvimento web, abordando desde a estruturação semântica até a estilização e adaptação de interfaces.
+
+Os principais tópicos trabalhados incluem:
+
+- HTML semântico e boas práticas de marcação  
+- Estruturação de páginas institucionais  
+- Criação e validação de formulários  
 - CSS básico e intermediário  
-- Responsividade  
-- Tabelas  
-- Iframes  
-- Boas práticas de marcação  
+- Estilização e organização de layouts  
+- Introdução à responsividade  
+- Manipulação de tabelas e iframes  
 
----
-
-# 📚 Base de Estudos Complementar
-
-Os **exercícios** e **desafios** deste repositório foram retirados dos **Módulos 1 ao 5** do curso:
-
-## 🎓 Curso HTML5 e CSS3 — Curso em Vídeo
-
-<a href="https://www.cursoemvideo.com/" target="_blank">Acessar plataforma</a>
-
-Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de tecnologia.
+O objetivo desta fase é garantir domínio dos fundamentos essenciais, que servirão de base para etapas mais avançadas da trilha.
 
 ---
 
 ## 🚀 Tecnologias estudadas
 
-- HTML5  
-- CSS3  
-- Git  
-- GitHub  
-- GitHub Pages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -52,6 +44,18 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/projeto-institucional" target="_blank">Página institucional completa</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/formulario-validacoes" target="_blank">Formulário com validações</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/entregaveis/projeto-responsivo" target="_blank">Projeto responsivo</a>
+
+---
+
+# 📚 Base de Estudos
+
+Os **exercícios** e **desafios** deste repositório foram retirados dos **Módulos 1 ao 5** do curso:
+
+## 🎓 Curso HTML5 e CSS3 — Curso em Vídeo
+
+<a href="https://www.cursoemvideo.com/" target="_blank">Acessar plataforma</a>
+
+Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de tecnologia.
 
 ---
 
