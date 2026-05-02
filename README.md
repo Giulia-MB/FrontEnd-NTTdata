@@ -190,9 +190,28 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq004/index.html" target="_blank">Breakpoints por dispositivo</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-04-html5-css3/exercicios/ex026/mq005/index.html" target="_blank">Menu Hambúrguer Responsivo</a>
 
+### Módulo 05  
+
+- Exercício 27 - Flexbox (CSS Flexible Box Layout):
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex001/index.html" target="_blank">Criação do container Flex</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex002/index.html" target="_blank">Uso de `flex-direction: column`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex003/index.html" target="_blank">Uso de `flex-wrap` e `flex-flow`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex004/index.html" target="_blank">Alinhamento com `justify-content` e `align-items`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex005/index.html" target="_blank">Centralização completa com Flexbox</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex006/index.html" target="_blank">Uso de `align-content`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex007/index.html" target="_blank">Controle de ordem com `order`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex008/index.html" target="_blank">Alinhamento individual com `align-self`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex009/index.html" target="_blank">Uso de `flex-basis`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex010/index.html" target="_blank">Uso conjunto de `flex-grow`, `flex-shrink` e `flex-basis`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex011/index.html" target="_blank">Uso do shorthand `flex`</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex012/index.html" target="_blank">Variação de crescimento e encolhimento dos itens</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex013/index.html" target="_blank">Criação de menu com Flexbox</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex014/index.html" target="_blank">Organização de layout com texto e mídia</a>  
+
 ## 💻 Acesse o código dos exercícios aqui:
 
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-01-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 01</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-02-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 02</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 03</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-04-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 04</a>
+- <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-05-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 05</a>
