@@ -8,13 +8,20 @@ body {
 
 header {
     background-color: #f4f4f4;
-    padding: 25px;
+    padding: 25px 30px;
     border-bottom: 2px solid #dcdcdc;
 }
 
 nav {
     width: 100%;
     text-align: right;
+    line-height: 60px; 
+}
+
+.logo,
+.menu,
+.icones {
+    vertical-align: middle;
 }
 
 .logo {
@@ -31,6 +38,7 @@ nav {
     height: auto;
 }
 
+/* MENU */
 .menu {
     display: inline-block;
     vertical-align: middle;
@@ -41,15 +49,15 @@ nav {
 
 .menu li {
     display: inline-block;
-    padding: 9px;
+    margin-right: 18px;
 }
 
 .menu a {
     color: black;
-    padding: 10px;
     text-decoration: none;
     font-size: 16px;
     font-weight: bold;
+    padding: 6px 10px;
     transition: 0.3s;
 }
 
@@ -58,16 +66,18 @@ nav {
     color: white;
 }
 
+/* ÍCONES */
 .icones {
     display: inline-block;
     vertical-align: middle;
-    padding: 10px;
+    margin-left: 15px;
 }
 
 .icones a,
 .icones details {
     display: inline-block;
     vertical-align: middle;
+    margin-right: 12px;
 }
 
 .icones a {
@@ -260,7 +270,7 @@ main a {
 }
 
 .card-contato h3 {
-    margin: 0 0 8px 0;
+    margin: 0;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -421,10 +431,19 @@ main a {
     font-weight: bold;
 }
 
+footer {
+    background-color: #0b6b2d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
 #formulario {
     width: 90%;
-    margin: 20px auto 0 auto;
-    padding: 0px 0 40px 0;
+    margin-top: 20px;
+    margin: 0 auto;
+    padding: 20px 0 40px 0;
 }
 
 #formulario fieldset {
@@ -506,12 +525,4 @@ main a {
 
 .area-botao input[type="submit"]:hover {
     background-color: #084d21;
-}
-
-footer {
-    background-color: #0b6b2d;
-    color: white;
-    text-align: center;
-    padding: 4px;
-    font-size: 0.9em;
 }
