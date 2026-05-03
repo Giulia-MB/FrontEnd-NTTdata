@@ -212,6 +212,14 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex013/index.html" target="_blank">Criação de menu com Flexbox</a>
   - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex027/flex014/index.html" target="_blank">Organização de layout com texto e mídia</a>  
 
+- Exercício 28 - Grid Layout CSS:
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid001/index.html" target="_blank">Anatomia e propriedades básicas do Grid</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid002/index.html" target="_blank">Atalhos grid-template, place-items e place-content</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid003/index.html" target="_blank">repeat, fr e linhas automáticas</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid004/index.html" target="_blank">Posicionamento com grid-row-start e grid-column-start</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid005/index.html" target="_blank">Posicionamento com grid-row e grid-column</a>
+  - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/exercicios/ex028/grid006/index.html" target="_blank">Posicionamento com grid-area</a>
+
 ## 💻 Acesse o código dos exercícios aqui:
 
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-01-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 01</a>
