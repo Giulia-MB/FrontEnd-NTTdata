@@ -59,12 +59,6 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 - <a href="https://www.youtube.com/@cursoemvideo" target="_blank">Canal Curso em Vídeo no YouTube</a>
 - <a href="https://gustavoguanabara.github.io/" target="_blank">Repositório do curso do professor Gustavo Guanabara</a>
 
-## 📄 Licença e créditos
-
-O material original do curso está disponível sob a **Licença MIT**, permitindo uso, cópia, modificação e distribuição, desde que o aviso de copyright e a licença sejam mantidos.
-
-- <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE" target="_blank">Licença MIT do material original</a>
-
 ---
 
 # 🏆 Desafios
@@ -240,3 +234,11 @@ O material original do curso está disponível sob a **Licença MIT**, permitind
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 03</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-04-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 04</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-05-html5-css3/exercicios" target="_blank">Código dos exercícios do módulo 05</a>
+
+## 📄 Licença
+
+O material original do curso está disponível sob a **Licença MIT**, permitindo uso, cópia, modificação e distribuição, desde que o aviso de copyright e a licença sejam mantidos.
+
+- <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE" target="_blank">Licença MIT do material original</a>
+
+Copyright (c) 2020 Gustavo Guanabara
