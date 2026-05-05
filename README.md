@@ -103,6 +103,7 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-02-html5-css3/desafios" target="_blank">Código dos desafios do módulo 02</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-03-html5-css3/desafios" target="_blank">Código dos desafios do módulo 03</a>
 - <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-04-html5-css3/desafios" target="_blank">Código dos desafios do módulo 04</a>
+- <a href="https://github.com/giulia-mb/html-semantico/tree/main/modulo-05-html5-css3/desafios" target="_blank">Código dos desafios do módulo 05</a>
 
 ---
 
