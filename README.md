@@ -53,9 +53,17 @@ Os **exercícios** e **desafios** deste repositório foram retirados dos **Módu
 
 ## 🎓 Curso HTML5 e CSS3 — Curso em Vídeo
 
-<a href="https://www.cursoemvideo.com/" target="_blank">Acessar plataforma</a>
-
 Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de tecnologia.
+
+- <a href="https://www.cursoemvideo.com/" target="_blank">Plataforma de cursos</a>
+- <a href="https://www.youtube.com/@cursoemvideo" target="_blank">Canal Curso em Vídeo no YouTube</a>
+- <a href="https://gustavoguanabara.github.io/" target="_blank">Repositório do curso do professor Gustavo Guanabara</a>
+
+## 📄 Licença e créditos
+
+O material original do curso está disponível sob a **Licença MIT**, permitindo uso, cópia, modificação e distribuição, desde que o aviso de copyright e a licença sejam mantidos.
+
+- <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE" target="_blank">Licença MIT do material original</a>
 
 ---
 
