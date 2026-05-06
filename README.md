@@ -98,6 +98,7 @@ Curso ministrado por **Gustavo Guanabara**, referência nacional no ensino de te
 ### Módulo 05
 
 - <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/desafios/d017/index.html" target="_blank">Desafio 17 - Desafio Grid Layout</a>
+- <a href="https://giulia-mb.github.io/html-semantico/modulo-05-html5-css3/desafios/d018/index.html" target="_blank">Desafio 18 - Projeto Portfólio</a>
 
 ## 💻 Acesse o código dos desafios aqui:
 
