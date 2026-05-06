@@ -4,8 +4,398 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto Portfólio</title>
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="shortcut icon" href="favicon.svg" type="image/svg">
+    <script src="https://kit.fontawesome.com/a82dfc9b79.js" crossorigin="anonymous"></script>
 </head>
-<body>
-    
+<body class="escuro">
+    <header>
+        <nav id="menu">
+            <ul>
+                <li><a href="#video" class="link"><i class="fa-solid fa-house"></i></a></li>
+                <li><a href="#skills" class="link"><i class="fa-solid fa-brain"></i></a></li>
+                <li><a href="#formacao" class="link"><i class="fa-solid fa-user-graduate"></i></a></li>
+                <li><a href="#projetos" class="link"><i class="fa-solid fa-trowel-bricks"></i></a></li>
+                <li><a href="#" class="link" id="botao-tema"><i class="fa-solid fa-moon"></i></a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="ficha">
+            <img src="imagens/giulia-perfil.jpg" alt="Giulia Bertulucci" class="foto">
+            <h1>Giulia Bertulucci</h1>
+            <p>Sou graduada em Engenharia de Computação pelo IFTM, pós-graduada em Docência para a Educação Profissional e Tecnológica também pelo IFTM e atualmente curso pós-graduação lato sensu em Ciência de Dados, na mesma instituição. Sou apaixonada por diversas áreas da tecnologia e tenho grande interesse por design, programação e desenvolvimento web, especialmente Front-End, unindo estética, funcionalidade e experiência do usuário na criação de interfaces digitais.</p>
+            <div id="social">
+                <a href="https://www.linkedin.com/in/giulia-bertulucci/" target="_blank" rel="nofollow"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/giulia-MB" target="_blank" rel="nofollow"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.instagram.com/giulia.bertulucci/" target="_blank" rel="nofollow"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </section>
+        <section id="detalhes">
+            <article id="video">
+                <h2><i class="fa-regular fa-handshake"></i> Deixe-me apresentar</h2>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/tNobiwuAaAg?si=T-hSqnDcvnJhh6xm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </article>
+            <article id="skills">
+                <h2><i class="fa-solid fa-brain"></i> Minhas skills</h2>
+
+                <div id="skill-container">
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-brands fa-html5"></i> HTML5
+                            </span>
+                            <span class="porcent">
+                                90%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 90%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-brands fa-css3-alt"></i> CSS3
+                            </span>
+                            <span class="porcent">
+                                85%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 85%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-brands fa-square-js"></i> JavaScript
+                            </span>
+                            <span class="porcent">
+                                75%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 75%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-brands fa-git"></i> Git
+                            </span>
+                            <span class="porcent">
+                                90%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 90%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-brands fa-github"></i> GitHub
+                            </span>
+                            <span class="porcent">
+                                90%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 90%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-bullhorn"></i> Comunicação
+                            </span>
+                            <span class="porcent">
+                                95%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 95%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-crown"></i> Liderança
+                            </span>
+                            <span class="porcent">
+                                85%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 85%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-user-group"></i> Trabalho em equipe
+                            </span>
+                            <span class="porcent">
+                                85%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 85%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-calculator"></i> Resolução de problemas
+                            </span>
+                            <span class="porcent">
+                                85%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 85%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-book"></i> Aprendizado contínuo
+                            </span>
+                            <span class="porcent">
+                                100%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 100%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-magnifying-glass"></i> Atenção a detalhes
+                            </span>
+                            <span class="porcent">
+                                90%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 90%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="info">
+                            <span class="nome">
+                                <i class="fa-solid fa-briefcase"></i> Organização
+                            </span>
+                            <span class="porcent">
+                                90%
+                            </span>
+                        </div>
+                        <div class="barra">
+                            <div class="progresso" style="width: 90%;">
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </article>  
+            <article id="formacao">
+                <h2><i class="fa-solid fa-user-graduate"></i> Formação</h2>
+
+                <div id="formacao-container">
+                    <div class="curso">
+                        <p class="periodo">
+                            2026 - Em andamento
+                        </p>
+                        <h3 class="instituicao">
+                            IFTM UPT - Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico
+                        </h3>
+                        <p class="titulacao">
+                            Pós-graduação lato sensu em Ciência de Dados
+                        </p>
+                    </div>
+                    <div class="curso">
+                        <p class="periodo">
+                            2024 - 2026
+                        </p>
+                        <h3 class="instituicao">
+                            IFTM UPT - Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico
+                        </h3>
+                        <p class="titulacao">
+                            Pós-graduação lato sensu em Docência para a Educação Profissional e Tecnológica
+                        </p>
+                    </div>
+                    <div class="curso">
+                        <p class="periodo">
+                            2017 - 2021
+                        </p>
+                        <h3 class="instituicao">
+                            Centro Interescolar Estadual de Línguas - CIEL
+                        </h3>
+                        <p class="titulacao">
+                            Curso de Línguas Estrangeiras Modernas - Inglês
+                        </p>
+                    </div>
+                    <div class="curso">
+                        <p class="periodo">
+                            2016 - 2024
+                        </p>
+                        <h3 class="instituicao">
+                            IFTM UPT - Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico
+                        </h3>
+                        <p class="titulacao">
+                            Bacharelado em Engenharia de Computação
+                        </p>
+                    </div>
+                    <div class="curso">
+                        <p class="periodo">
+                            2012 - 2014
+                        </p>
+                        <h3 class="instituicao">
+                            IFTM UPT - Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico
+                        </h3>
+                        <p class="titulacao">
+                            Técnico em Manutenção e Suporte em Informática
+                        </p>
+                    </div>
+                </div>
+            </article>
+            <article id="projetos">
+                <h2><i class="fa-solid fa-trowel-bricks"></i> Projetos</h2>
+
+                <div id="projeto-container">
+
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/projeto-videos/index.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-01-videos.jpg" alt="Projeto 1" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">Projeto de Vídeos</h3>
+                            <p>Projeto construído para praticar a incorporação de vídeos em um site.</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>O projeto funciona como uma pequena galeria de vídeos. Na página principal, aparecem algumas opções com temas variados, representadas por miniaturas criadas por mim no Canva. Ao clicar em uma miniatura, o usuário é levado para uma página própria, que pode conter um vídeo incorporado do YouTube, um link externo relacionado e um botão para voltar ao início.</p>
+                            </details>
+                        </div>
+                    </div>
+
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/cordel-moderno/index.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-02-cordel.jpg" alt="Projeto 2" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">Projeto Cordel Moderno</h3>
+                            <p>Projeto construído para praticar a criação de conteúdo em formato de cordel utilizando efeito Parallax.</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>Esse é um projeto feito para transformar o Cordel Moderno, de Milton Duarte, em uma página web com visual mais elaborado, misturando poesia, imagens e efeitos de rolagem. A página é dividida em seções, alternando partes com fundo simples e partes com imagens de fundo. A ideia foi criar uma leitura mais visual, usando o efeito parallax para dar profundidade enquanto o usuário rola a página.</p>
+                            </details>
+                        </div>
+                    </div>
+                    
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/projeto-android/android.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-03-android.jpg" alt="Projeto 3" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">projeto Android</h3>
+                            <p>Esse é um projeto feito para treinar conteúdo de imagens dinâmicas.</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>O projeto apresenta uma página em formato de artigo sobre a história do mascote do Android. A ideia foi praticar HTML e CSS em um projeto mais completo, com texto, imagens, vídeo, menu, conteúdo extra e layout responsivo. O projeto tem estrutura parecida com uma página de notícia ou artigo, com cabeçalho, menu de navegação, conteúdo principal, imagens responsivas, vídeo incorporado do YouTube, uma seção extra com curiosidades e rodapé com créditos.</p>
+                            </details>
+                        </div>
+                    </div>
+
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/projeto-redes-sociais/index.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-04-links.png" alt="Projeto 4" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">projeto Redes Sociais</h3>
+                            <p>Esse é um projeto de feito para simular uma tela de celular com atalhos para redes sociais</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>A ideia foi criar uma interface visual e interativa usando HTML, CSS, imagens e iframe. A página principal mostra um celular no centro da tela e alguns botões laterais com ícones de redes sociais. Ao clicar em cada ícone, a tela dentro do celular muda, exibindo uma prévia da rede escolhida. Em cada tela, o usuário deve rolar com o mouse ou com o touchscreen para chegar até o botão "ACESSE", que leva para o link externo correspondente.</p>
+                            </details>
+                        </div>
+                    </div>
+
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/login-responsivo/index.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-05-login.jpg" alt="Projeto 5" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">projeto Login Responsivo</h3>
+                            <p>Esse é um projeto feito para criar uma tela de login responsiva, adaptada para diferentes tamanhos de tela.</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>A ideia foi praticar Mobile First, Media Queries e estilização de formulários com HTML e CSS. A página apresenta um card de login centralizado, com imagem decorativa, campos de e-mail e senha, botão de entrada e link para recuperação de senha. O layout muda conforme o tamanho da tela, ficando mais compacto no celular e mais amplo em tablets e desktops.</p>
+                            </details>
+                        </div>
+                    </div>
+
+                    <div class="projeto">
+                        <a href="https://giulia-mb.github.io/projeto-album-de-fotos/index.html" target="_blank" rel="nofollow">
+                            <img src="imagens/projeto-06-album.jpg" alt="Projeto 6" class="foto">
+                        </a>
+                        <div class="projeto-info">
+                            <p class="periodo">2026</p>
+                            <h3 class="titulo">projeto Álbum de Fotos</h3>
+                            <p>Esse é um projeto feito para criar um álbum de fotos responsivo usando HTML e CSS.</p>
+                            <details class="descricao">
+                                <summary>Saiba mais...</summary>
+                                <p>A ideia foi organizar várias imagens em colunas que se adaptam ao tamanho da tela. Em telas menores, as imagens aparecem em uma única coluna; em tablets, passam a ocupar duas colunas; e em telas maiores, o layout se organiza em quatro colunas.</p>
+                            </details>
+                        </div>
+                    </div>
+
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        Portfólio desenvolvido por <strong>Giulia Bertulucci</strong> em 2026.
+    </footer>
+    <script src="scripts/script.js">
+
+    </script>
 </body>
 </html>
