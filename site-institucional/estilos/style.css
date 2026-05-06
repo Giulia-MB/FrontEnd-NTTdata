@@ -58,7 +58,6 @@ nav {
     font-size: 16px;
     font-weight: bold;
     padding: 6px 10px;
-    transition: 0.3s;
 }
 
 .menu a:hover {
@@ -114,7 +113,6 @@ summary {
     border-radius: 50%;
     text-align: center;
     line-height: 40px;
-    transition: 0.2s;
 }
 
 .icones a:hover,
@@ -186,13 +184,10 @@ main p {
     padding-bottom: 5px;
 }
 
-main > p::after {
-    content: "";
-    display: block;
-    width: 60%;
-    height: 2px;
-    background-color: #dcdcdc;
-    margin: 40px auto 25px auto; /* 🔥 antes | lados | depois */
+main > p {
+    border-bottom: 2px solid #dcdcdc;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
 }
 
 main a {
@@ -202,32 +197,13 @@ main a {
 }
 
 #localizacao {
-    position: relative;
     background-image: url("../imagens/localizacao.jpeg");
     background-position: center center;
     background-size: cover;
-    background-attachment: fixed;
-
     padding: 80px 40px;
     color: white;
     text-align: center;
-}
-
-#localizacao::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 0;
-}
-
-#localizacao * {
-    position: relative;
-    z-index: 1;
+    background-color: #0b6b2d;
 }
 
 #localizacao h2 {
@@ -266,7 +242,7 @@ main a {
 .conteudo-card {
     display: inline-block;
     vertical-align: top;
-    width: calc(100% - 60px);
+    width: 170px;
 }
 
 .card-contato h3 {
@@ -301,15 +277,7 @@ main a {
     padding: 60px 20px 30px 20px;
     text-align: center;
     background-color: #f4f4f4;
-}
-
-#cursos::before {
-    content: "";
-    display: block;
-    width: 60%;
-    height: 2px;
-    background-color: #dcdcdc;
-    margin: 0 auto 30px auto;
+    border-top: 2px solid #dcdcdc;
 }
 
 .subtitulo-cursos {
@@ -335,24 +303,20 @@ main a {
     height: 330px;
     margin: 15px;
     background-color: white;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+    border: 1px solid #cccccc;
     vertical-align: top;
     text-align: left;
     cursor: pointer;
-    transition: 0.3s;
 }
 
 .card-curso:hover {
-    transform: scale(1.03);
+    background-color: #e8f5ec;
 }
 
 .img-curso {
     width: 100%;
     height: 180px;
     display: block;
-    object-fit: cover;
 }
 
 .card-curso h3 {
@@ -374,15 +338,7 @@ main a {
 #servicos {
     padding: 30px 20px 60px 20px;
     text-align: center;
-}
-
-#servicos::before {
-    content: "";
-    display: block;
-    width: 60%;              /* tamanho da linha */
-    height: 2px;
-    background-color: #dcdcdc;
-    margin: 0 auto 30px auto; /* centraliza */
+    border-top: 2px solid #dcdcdc;
 }
 
 .subtitulo-servicos {
@@ -404,18 +360,14 @@ main a {
     padding: 25px 20px;
     background-color: white;
     border: 1px solid #e0e0e0;
-    border-radius: 20px;
-    box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
     text-align: center;
     vertical-align: top;
     text-decoration: none;
     color: #0b6b2d;
-    transition: 0.3s;
 }
 
 .card-servico:hover {
-    transform: scale(1.03);
-    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    background-color: #e8f5ec;
 }
 
 .card-servico i {
@@ -512,15 +464,13 @@ footer {
 
 .area-botao input[type="submit"] {
     font-size: 1.1em;
-    width: auto; /* 🔥 agora funciona */
+    width: auto;
     padding: 10px 20px;
-    border-radius: 25px;
     background-color: #0b6b2d;
     color: white;
     border: none;
     font-weight: bold;
     cursor: pointer;
-    transition: 0.3s;
 }
 
 .area-botao input[type="submit"]:hover {
