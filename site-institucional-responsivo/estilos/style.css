@@ -1,64 +1,76 @@
 @charset "UTF-8";
 
-body {
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
 }
 
 header {
     background-color: #f4f4f4;
-    padding: 25px 30px 0px 30px;
     border-bottom: 2px solid #dcdcdc;
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }
 
-nav {
+.navbar {
     width: 100%;
-    text-align: right;
-    line-height: 60px;
-    height: 60px;
-}
-
-.logo,
-.menu,
-.icones {
-    vertical-align: middle;
-}
-
-.logo {
-    float: left;
-}
-
-.logo a {
-    display: inline-block;
+    padding: 20px 30px;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: 15px;
 }
 
 .logo img {
-    display: block;
     width: 220px;
     height: auto;
 }
 
-/* MENU */
+.menu-toggle {
+    display: none;
+}
+
+.botao-menu {
+    width: 42px;
+    height: 42px;
+    border-radius: 5px;
+    background-color: #0b6b2d;
+    color: white;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+
 .menu {
-    display: inline-block;
-    vertical-align: middle;
+    grid-column: 1 / -1;
+    display: none;
     list-style: none;
-    margin: 0;
-    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.menu-toggle:checked ~ .menu {
+    display: block;
 }
 
 .menu li {
-    display: inline-block;
-    margin-right: 18px;
+    border-top: 1px solid #dcdcdc;
 }
 
 .menu a {
+    display: block;
     color: black;
     text-decoration: none;
     font-size: 16px;
     font-weight: bold;
-    padding: 6px 10px;
+    padding: 12px 10px;
     transition: 0.3s;
 }
 
@@ -67,22 +79,19 @@ nav {
     color: white;
 }
 
-/* ÍCONES */
 .icones {
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
 
-.icones a {
+.icones a,
+.icones details {
     display: inline-block;
-    vertical-align: middle;
-    margin-right: 12px;
 }
 
 .icones a {
     text-decoration: none;
-    vertical-align: middle;
     color: black;
 }
 
@@ -90,38 +99,69 @@ nav {
     color: black;
 }
 
-.icones a:last-child {
-    margin-right: 0;
+details {
+    position: relative;
 }
 
-.icones a {
-    width: 44px;
-    height: 44px;
+summary {
+    display: grid;
+    place-items: center;
+    list-style: none;
+    cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+.icones a,
+summary {
+    width: 40px;
+    height: 40px;
     padding: 0;
     border-radius: 50%;
     text-align: center;
-    line-height: 44px;
+    line-height: 40px;
     transition: 0.2s;
 }
 
-.icones a:hover {
+.icones a:hover,
+summary:hover {
     background-color: #0b6b2d62;
 }
 
-.icones a:hover .material-symbols-outlined {
+.icones a:hover .material-symbols-outlined,
+summary:hover .material-symbols-outlined {
     color: white;
 }
 
 .material-symbols-outlined {
     font-size: 28px;
-    line-height: 44px;
-    vertical-align: middle;
+    line-height: 40px;
 }
 
-header::after {
-    content: "";
+.idiomas {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    list-style: none;
+    margin: 0;
+    padding: 8px 12px;
+    background-color: white;
+    border: 1px solid #ccc;
+    z-index: 20;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+}
+
+.idiomas li {
     display: block;
-    clear: both;
+    margin: 8px 0;
+}
+
+.idiomas a {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
 }
 
 main {
@@ -169,64 +209,61 @@ main a {
     padding: 80px 40px;
     color: white;
     text-align: center;
-    border-radius: 20px;
-    overflow: hidden;
 }
 
 #localizacao::before {
     content: "";
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-
+    inset: 0;
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 0;
 }
 
-#localizacao * {
+#localizacao > * {
     position: relative;
     z-index: 1;
 }
 
 #localizacao h2 {
     color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
 }
 
 #localizacao > p {
-    margin-bottom: 30px;
+    margin-bottom: 45px;
+    font-size: 18px;
 }
 
 .card-contato {
-    display: inline-block;
-    width: 250px;
-    height: 90px;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+
+    width: 100%;
+    max-width: 320px;
+    min-height: 90px;
     padding: 15px 20px;
     border-radius: 10px;
     background-color: #0b6b2d;
     color: white;
     text-align: left;
-    vertical-align: top;
-    margin: 10px;
+    margin: 10px auto;
     box-sizing: border-box;
-    position: relative;
 }
 
 .icone-contato {
-    display: inline-block;
     font-size: 28px;
-    vertical-align: top;
-    margin-right: 15px;
-    margin-top: 5px;
     width: 35px;
+    margin-top: 5px;
     text-align: center;
+    flex: 0 0 35px;
 }
 
 .conteudo-card {
-    display: inline-block;
-    vertical-align: top;
-    width: calc(100% - 60px);
+    flex: 1;
+    min-width: 0;
 }
 
 .card-contato h3 {
@@ -250,7 +287,7 @@ main a {
 }
 
 .mapa iframe {
-    width: 80%;
+    width: 100%;
     height: 350px;
     border: 0;
     border-radius: 20px;
@@ -279,26 +316,23 @@ main a {
 }
 
 .container-cursos {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
     width: 90%;
     margin: 0 auto;
 }
 
 .link-card-curso {
-    display: inline-block;
     text-decoration: none;
     color: inherit;
 }
 
 .card-curso {
-    display: inline-block;
-    width: 300px;
-    height: 330px;
-    margin: 15px;
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
-    vertical-align: top;
     text-align: left;
     cursor: pointer;
     transition: 0.3s;
@@ -317,9 +351,8 @@ main a {
 
 .card-curso h3 {
     color: #0b6b2d;
-    margin: 20px 15px 10px 10px;
+    margin: 20px 15px 10px 15px;
     font-size: 1.3em;
-    height: 40px;
 }
 
 .card-curso p {
@@ -327,7 +360,6 @@ main a {
     color: #666;
     font-size: 0.95em;
     line-height: 1.5;
-    height: 70px;
     padding-bottom: 0;
 }
 
@@ -352,25 +384,29 @@ main a {
 }
 
 .container-servicos {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
     width: 90%;
     margin: 0 auto;
 }
 
 .card-servico {
-    display: inline-block;
-    width: 300px;
-    height: 100px;
-    margin: 15px;
+    min-height: 120px;
     padding: 25px 20px;
     background-color: white;
     border: 1px solid #e0e0e0;
     border-radius: 20px;
     box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
     text-align: center;
-    vertical-align: top;
     text-decoration: none;
     color: #0b6b2d;
     transition: 0.3s;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-servico:hover {
@@ -391,11 +427,18 @@ main a {
     font-weight: bold;
 }
 
+footer {
+    background-color: #0b6b2d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
 #formulario {
     width: 90%;
-    margin-top: 20px;
     margin: 0 auto;
-    padding: 0px 0 40px 0;
+    padding: 20px 0 40px 0;
 }
 
 #formulario fieldset {
@@ -417,7 +460,6 @@ main a {
     margin: 15px 0;
 }
 
-/* labels */
 #formulario label {
     display: block;
     margin: 20px 0 5px 0;
@@ -425,7 +467,6 @@ main a {
     color: #0b6b2d;
 }
 
-/* campos */
 #formulario select,
 #formulario textarea,
 #formulario input[type="text"],
@@ -450,13 +491,11 @@ main a {
     font-size: 1em;
 }
 
-/* altura da mensagem */
 #formulario textarea {
     height: 100px;
     resize: vertical;
 }
 
-/* botão */
 .area-botao {
     text-align: right;
     margin-top: 30px;
@@ -479,10 +518,55 @@ main a {
     background-color: #084d21;
 }
 
-footer {
-    background-color: #0b6b2d;
-    color: white;
-    text-align: center;
-    padding: 4px;
-    font-size: 0.9em;
+@media screen and (min-width: 768px) {
+    .card-contato {
+        display: inline-flex;
+        width: 31%;
+        max-width: 350px;
+        margin: 20px 12px;
+        vertical-align: top;
+    }
+    
+    .contatos-grid {
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 1100px;
+        margin: auto;
+    }
+
+    .container-cursos,
+    .container-servicos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .navbar {
+        grid-template-columns: auto 1fr auto;
+    }
+
+    .botao-menu {
+        display: none;
+    }
+
+    .menu {
+        grid-column: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        background-color: transparent;
+    }
+
+    .menu li {
+        border-top: none;
+    }
+
+    .menu a {
+        padding: 6px 10px;
+    }
+
+    .container-cursos,
+    .container-servicos {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }

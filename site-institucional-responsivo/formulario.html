@@ -10,28 +10,48 @@
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 </head>
 
 <body>
     <header>
-        <nav>
+        <nav class="navbar">
             <div class="logo">
                 <a href="index.html">
                     <img src="imagens/logo-iftm.png" alt="Logo IFTM">
                 </a>
             </div>
 
+            <input type="checkbox" id="menu-toggle" class="menu-toggle">
+
+            <label for="menu-toggle" class="botao-menu">
+                <span class="material-symbols-outlined">menu</span>
+            </label>
+
             <ul class="menu">
-                <li><a href="index.html#inicio">Início</a></li>
-                <li><a href="index.html#mapa">Localização</a></li>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="index.html#localizacao">Localização</a></li>
                 <li><a href="index.html#cursos">Cursos</a></li>
                 <li><a href="index.html#servicos">Serviços</a></li>
+                <li><a href="formulario.html">Fale Conosco</a></li>
             </ul>
 
             <div class="icones">
-                <a href="#">
-                  <span class="material-symbols-outlined" title="E-mail">mail</span>
+                <a href="mailto:cgap.upt@iftm.edu.br">
+                    <span class="material-symbols-outlined" title="E-mail">mail</span>
                 </a>
+
+                <details>
+                    <summary>
+                        <span class="material-symbols-outlined" title="Escolher idioma">translate</span>
+                    </summary>
+
+                    <ul class="idiomas">
+                        <li><a href="#">EN</a></li>
+                        <li><a href="#">ES</a></li>
+                        <li><a href="#">FR</a></li>
+                    </ul>
+                </details>
 
                 <a href="formulario.html">
                     <span class="material-symbols-outlined" title="Contato">contact_phone</span>
@@ -40,9 +60,10 @@
         </nav>
     </header>
 
-    <main id="inicio">
+
+    <main>
         <h1>Fale conosco</h1>
-        <p>Envie uma mensagem para o IFTM para esclarecer dúvidas, solicitar informações ou fazer sugestões.</p>
+        <p>Envie uma mensagem para o IFTM</p>
         <section id="formulario">
             <form action="cadastro.php" method="post" autocomplete="on">
                 <fieldset>
